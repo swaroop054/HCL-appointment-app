@@ -1,0 +1,14 @@
+{
+  "name": "appointment-service-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appointment.js",
+  "scripts": {
+    "start": "node appointment.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
